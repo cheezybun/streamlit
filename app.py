@@ -142,7 +142,7 @@ def set_classmod():
     st.write("We applied Four classification models, logistics regression, random forest model, Decision tree and Naive bayes . They gave a mean absolute error of ***0.186*** and ***0.074*** For the models. These results can be improved further by optimizing")
     st.subheader("*Prediction Using Logistic Regression Model*")
     st.write("##### Mean absolute error:")
-    st.write("0.18627592512391125")
+    st.write("0.297327592512391125")
     st.set_option('deprecation.showPyplotGlobalUse', False)
 
     st.subheader("*Prediction Using Random Forest*")
