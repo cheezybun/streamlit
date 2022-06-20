@@ -61,7 +61,7 @@ df = pd.read_csv(r'airline_passenger_satisfaction.csv')
 
 
 def set_home():
-    st.image("images\pexels-pascal-renet-113017.jpg")
+    st.image("pexels-pascal-renet-113017.jpg")
     st.write(intro, unsafe_allow_html=True)
     st.write(intro_herramientas_fuentes, unsafe_allow_html=True)
 
@@ -167,7 +167,7 @@ def set_classmod():
 import streamlit as st
 #from as_function import *
 
-st.sidebar.image('images\download.jpg', width=250)
+st.sidebar.image('download.jpg', width=250)
 st.sidebar.header('Airline Satisfaction Analysis')
 st.sidebar.markdown('Prediction of passenger satisfaction')
 
