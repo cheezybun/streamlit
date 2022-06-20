@@ -147,7 +147,7 @@ def set_classmod():
 
     st.subheader("*Prediction Using Random Forest*")
     st.write("##### Mean absolute error:")
-    st.write("0.07434868389394159")
+    st.write("0.071680389394159")
 
     st.subheader("*Prediction Using Decision Tree Classifier*")
     st.write("##### Accuracy:")
