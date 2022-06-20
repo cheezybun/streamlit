@@ -139,7 +139,7 @@ def set_analysis():
 
 def set_classmod():
     st.title("*Classification Model*")
-    st.write("We applied Four classification models, logistics regression, random forest model, Decision tree and Naive bayes . They gave a mean absolute error of ***0.186*** and ***0.074*** For the models. These results can be improved further by optimizing")
+    st.write("We applied Four classification models, logistics regression, random forest model, Decision tree and Naive bayes .  These results can be improved further by optimizing")
     st.subheader("*Prediction Using Logistic Regression Model*")
     st.write("##### Mean absolute error:")
     st.write("0.2973898983")
